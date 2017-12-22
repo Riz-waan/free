@@ -1,0 +1,5 @@
+#!/bin/bash
+cd /var/www/html
+git add .
+git commit -m "Server Backup”
+git push -u origin master
